@@ -1,4 +1,6 @@
 Halo, Saya Yusep Tiana
+NIM : 250401020103
+Kelas : IF401
 
 Mahasiswa Universitas Siber Asia jurusan informatika. ini mata kuliah Data Science, dan dosen pengampunya bapak Syahid Abdullah, S.Si., M.Kom.
 
